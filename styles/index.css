@@ -1,6 +1,7 @@
 body {
     padding: 0 !important;
     margin: 0 !important;
+    background-color: rgb(246, 253, 255);
 }
 
 .menu {
@@ -24,4 +25,12 @@ body {
     color: lightskyblue;
     text-decoration: none;
     display: inline-block;
+}
+
+.body h1 {
+    font-size: 2em;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    padding: 0;
 }
