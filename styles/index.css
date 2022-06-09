@@ -1,0 +1,27 @@
+body {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.menu {
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu h3 {
+    display: inline-block;
+    color: lightskyblue;
+    font-weight: 500;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    font-size: 1.5em;
+    margin-left: 60px;
+    color: lightskyblue;
+    text-decoration: none;
+    display: inline-block;
+}
