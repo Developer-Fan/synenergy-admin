@@ -26,14 +26,14 @@ $conn -> close();
 </head>
 <body>
     <div class = "main">
-    <div class = "menu">
-        <h3>Synenergy official administration website</h3>
-        <a id = "current">Home</a>
-        <a href = "login.php">Login</a>
-    </div>
-    <div class = "body">
-        <h1>Synenergy Admin</h1>
-    </div>
+        <div class = "menu">
+            <h3>Synenergy official administration website</h3>
+            <a id = "current">Home</a>
+            <a href = "login.php">Login</a>
+        </div>
+        <div class = "body">
+            <h1>Synenergy Admin</h1>
+        </div>
     </div>
 </body>
 </html>
